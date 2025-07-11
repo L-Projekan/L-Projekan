@@ -1,6 +1,6 @@
 ## Halo teman-teman | hello everyone
 
-Akun ini dijadikan sebagai tempat hosting website e-commerce kecil.
+Akun ini dijadikan sebagai tempat hosting website e-commerce kecil. <br>
 Maafkan kami jika kami pelit memberikan code. Kami akan berusaha agar bisa meng-hosting web kami sendiri.
 Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahkan hubungi di bawah ini
 
