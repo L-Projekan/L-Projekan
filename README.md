@@ -1,6 +1,9 @@
-## Halo teman-teman
+## Halo teman-teman | hello everyone
 Akun ini dijadikan sebagai tempat hosting website e-commerce kecil
 Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahkan hubungi di bawah ini
+
+This account is used as a hosting site for small e-commerce websites.
+So, if you want to collaborate or do something with this code, please contact us below.
 ---
 Pemilik akun: 
 - Github @KimuraCoz
