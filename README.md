@@ -8,8 +8,8 @@ So, if you want to collaborate or do something with this code, please contact us
 
 ---
 ## Pemilik akun: 
-- ## Github [@KimuraCoz](https://github.com/KimuraCoz)
-- ## Instagram [@kimzul1945](https://www.instagram.com/kimzul1945/)
+- Github [@KimuraCoz](https://github.com/KimuraCoz)
+- Instagram [@kimzul1945](https://www.instagram.com/kimzul1945/)
 <!--
 **L-Projekan/L-Projekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
