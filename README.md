@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Halo teman-teman
+Akun ini dijadikan sebagai tempat hosting website e-commerce kecil
+Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahkan hubungi di bawah ini
+---
+Pemilik akun: 
+- Github @KimuraCoz
+- Instagram @kimzul1945
 <!--
 **L-Projekan/L-Projekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
