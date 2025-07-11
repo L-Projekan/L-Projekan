@@ -1,15 +1,26 @@
 ## Halo teman-teman | hello everyone
 
-Akun ini dijadikan sebagai tempat hosting website e-commerce kecil. <br>
-Maafkan kami jika kami pelit memberikan code. Kami akan berusaha agar bisa meng-hosting web kami sendiri. <br>
-Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahkan hubungi di bawah ini
+Selamat datang di akun ini! <br>
+Akun ini digunakan sebagai tempat hosting untuk website e-commerce kecil yang sedang kami kembangkan secara mandiri.
 
-This account is used as a hosting site for small e-commerce websites. <br>
-We apologize for being stingy with the code. We will try to host our own website. <br>
-So, if you want to collaborate or do something with this code, please contact us below.
+Kami mohon maaf apabila belum membagikan source code secara terbuka. <br>
+Fokus kami saat ini adalah belajar mengelola dan meng-hosting situs sendiri, sambil menjaga kualitas dan keamanan proyek.
+
+Jika kamu tertarik untuk berkolaborasi, memberi masukan, atau berdiskusi seputar proyek ini, silakan hubungi kami melalui kontak di bawah. Kami sangat terbuka untuk koneksi positif 🌱
 
 ---
-## Pemilik akun: 
+
+Welcome to this account!  <br>
+This account is used as a hosting space for a small self-developed e-commerce website.
+
+We apologize for not making the source code public yet. <br>
+Currently, we’re focused on learning to manage and host our website independently while maintaining quality and security.
+
+If you're interested in collaborating, sharing feedback, or just want to connect—feel free to reach out using the contact below. We're always open to positive vibes 🌟
+
+
+---
+## Pemilik akun | Account Owner: 
 - Github [@KimuraCoz](https://github.com/KimuraCoz)
 - Instagram [@kimzul1945](https://www.instagram.com/kimzul1945/)
 <!--
