@@ -4,6 +4,7 @@ Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahka
 
 This account is used as a hosting site for small e-commerce websites.
 So, if you want to collaborate or do something with this code, please contact us below.
+
 ---
 Pemilik akun: 
 - Github @KimuraCoz
