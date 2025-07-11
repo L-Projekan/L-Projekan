@@ -1,9 +1,11 @@
 ## Halo teman-teman | hello everyone
 
 Akun ini dijadikan sebagai tempat hosting website e-commerce kecil.
+Maafkan kami jika kami pelit memberikan code. Kami akan berusaha agar bisa meng-hosting web kami sendiri.
 Jadi, jika anda ingin berkolaborasi atau melakukan sesuatu pada code ini silahkan hubungi di bawah ini
 
 This account is used as a hosting site for small e-commerce websites.
+We apologize for being stingy with the code. We will try to host our own website.
 So, if you want to collaborate or do something with this code, please contact us below.
 
 ---
